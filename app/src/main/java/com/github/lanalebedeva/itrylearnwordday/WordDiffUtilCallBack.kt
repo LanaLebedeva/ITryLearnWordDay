@@ -1,6 +1,7 @@
 package com.github.lanalebedeva.itrylearnwordday
 
 import androidx.recyclerview.widget.DiffUtil
+import com.github.lanalebedeva.itrylearnwordday.data.Word
 
 class WordDiffUtilCallBack: DiffUtil.ItemCallback<Word>() {
 

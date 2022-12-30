@@ -1,4 +1,4 @@
-package com.github.lanalebedeva.itrylearnwordday
+package com.github.lanalebedeva.itrylearnwordday.data
 
 data class Word(
     val id: Long,

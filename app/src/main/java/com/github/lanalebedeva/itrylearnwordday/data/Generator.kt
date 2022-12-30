@@ -1,4 +1,4 @@
-package com.github.lanalebedeva.itrylearnwordday
+package com.github.lanalebedeva.itrylearnwordday.data
 
 object Generator {
     fun generate(): MutableList<Word> {
